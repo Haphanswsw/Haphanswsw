@@ -1,16 +1,21 @@
-# 👋 Hi, I'm Hà Phan  
+# 👋 Hi, I'm Hà Phan
 
-💻 **Full Stack Developer**  
+💻 **Full Stack Developer | FullStack Developer Intern**
+
+<!-- Profile quick links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haphanswsw/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/haphanswsw/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/haphanswsw)
 
 ---
 
-### 🧠 About Me  
+### 🧠 About Me
 I'm a passionate full-stack developer who enjoys designing, developing, and deploying modern web and mobile applications.  
 I specialize in building scalable backend systems and crafting intuitive frontend experiences, combining clean architecture with solid engineering principles.
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Stack
 
 **Languages & Frameworks**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,31 +42,28 @@ I specialize in building scalable backend systems and crafting intuitive fronten
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Featured Projects
 
 | Project | Description |
-|----------|--------------|
-| [**FUNET**](https://github.com/AnhTuanFPT1303/FUNET) | A social network platform for FPT University students and staff, enabling posts, comments, and interaction. |
-| [**Event Management**](https://github.com/Haphanswsw/Event_Management) | A professional system for managing, scheduling, and tracking events efficiently. |
-| [**TodoList**](https://github.com/Haphanswsw/TodoList) | A simple and elegant productivity tool built with modern web technologies. |
-| **Trover (TimTroProMax)** | A room-rental platform connecting landlords and tenants with location-based listings and amenities. |
+|--------|-------------|
+| **FUNET** | A social network platform for FPT University students and staff, enabling posts, comments, and interaction. |
+| **Event Management** | A professional system for managing, scheduling, and tracking events efficiently. |
+| **TodoList** | A simple and elegant productivity tool built with modern web technologies. |
+| **Trover (TimTroProMax)** | A room-rental platform connecting landlords and tenants with location-based listings and amenities. *(Private)* |
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 ![Hà's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haphanswsw&show_icons=true&theme=github_dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haphanswsw&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-### 🔗 Connect With Me  
+### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haphanswsw/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/haphanswsw/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/haphanswsw)
-[![Email](https://img.shields.io/badge/Email-haphan.sw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haphan.sw@gmail.com)
+📧 **Email:** [haphan.sw@gmail.com](mailto:haphan.sw@gmail.com)
 
 ---
 
-⭐ *"All road leads to me 🐐"*
+⭐ *"Code is craft — precision, passion, and purpose."*
