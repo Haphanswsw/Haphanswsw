@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hà Phan
 
-💻 **Full Stack Developer | FullStack Developer Intern**
+💻 **Full Stack Developer**
 
 <!-- Profile quick links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haphanswsw/)
@@ -66,4 +66,4 @@ I specialize in building scalable backend systems and crafting intuitive fronten
 
 ---
 
-⭐ *"Code is craft — precision, passion, and purpose."*
+🐐 *"All road leads to me."*
